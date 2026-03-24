@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Photo Mosaic Generator - 精度優先フォトモザイク生成ツール
+Photo Mosaic Generator - フォトモザイク生成ツール
 
 指定フォルダ内の画像タイルを使い、ターゲット画像を再構成するフォトモザイクを生成します。
 色空間はCIELAB（人間の知覚に近い）を使用し、複数の類似度指標を組み合わせて
